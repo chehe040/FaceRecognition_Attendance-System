@@ -64,6 +64,4 @@ After running the above command and creating the credentials, you can use the sa
 PYTHON, DJANGO, Javascript, HTML, CSS...
 
 
-## Live Video of Attendance System
 
-![alt text](https://github.com/Danishds0/dsattendencesystem/blob/master/ds-attendance-system.gif)
